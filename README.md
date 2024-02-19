@@ -37,9 +37,10 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Portfolio: [Your Portfolio Website](link-to-portfolio)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
+- 👔 LinkedIn: [Neeraj Upadhyay](https://www.linkedin.com/in/neeraj-upadhyay-a527aa226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- 🐦 Twitter: [@Neeraj_178](https://x.com/Neeraj_178?t=SimfZ5p0Oz3E6cNMgTlKqg&s=08)
+- 📷 Instagram: [_itzz_neeraj](https://www.instagram.com/invites/contact/?i=zib9lixemrsa&utm_content=48jiow0)
+
 
 <!--
 <div align="left">
@@ -53,8 +54,11 @@
 
 ## 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NeerajUpadhyay01&show_icons=true&theme=gotham" alt="NeerajUpadhyay01" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeerajUpadhyay01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=gotham&locale=en&order=1" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeerajUpadhyay01&locale=en&card_width=320&layout=compact&langs_count=5&theme=gotham&order=2" height="200" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=NeerajUpadhyay01&locale=en&layout=compact&mode=daily&theme=gotham&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
 
 ### Feel free to reach out if you have any questions , collaboration ideas , or just want to chat!
 
