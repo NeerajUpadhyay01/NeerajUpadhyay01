@@ -10,6 +10,8 @@ Here are some ideas to get you started: -->
 
 **languages and tools:**  
 
+<code><img height="20" src="![image](https://github.com/NeerajUpadhyay01/NeerajUpadhyay01/assets/96068816/53289257-9393-4e8c-9ec1-f63b61534a22)
+"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
