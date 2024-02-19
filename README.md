@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I,m Neeraj Upadhyay
 
 <!--
 **NeerajUpadhyay01/NeerajUpadhyay01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
