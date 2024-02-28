@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=10000&pause=1000&random=false&width=1600&height=60&lines=I'm+a+passionate+front-end+web+developer.+Trying+to+transform+visions+into+pixels.)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="400" height="300">
 
-### 🔧 languages and tools
+
+## 🔧 languages and tools
 
 <div align="left">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="30">
@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40">  
 </div>
 
-### ✨ Learning
+## ✨ Learning
 
 <div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
@@ -34,7 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 -->
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 - 👔 LinkedIn: [Neeraj Upadhyay](https://www.linkedin.com/in/neeraj-upadhyay-a527aa226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 🐦 Twitter: [@Neeraj_178](https://x.com/Neeraj_178?t=SimfZ5p0Oz3E6cNMgTlKqg&s=08)
@@ -51,7 +51,7 @@
 -->
 
 
-### 📈 my github stats
+## 📈 my github stats
 
 <div align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=NeerajUpadhyay01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=gotham&locale=en&order=1" height="200" alt="stats graph"  />
