@@ -1,6 +1,6 @@
 ## Hi there , I'm Neeraj Upadhyay 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=10000&pause=1000&random=false&width=1600&height=60&lines=I'm+a+passionate+front-end+web+developer.+Trying+to+transform+visions+into+pixels.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=10000&pause=1000&random=false&width=1600&height=60&lines=I'm+a+passionate+MERN+stack+developer.+Trying+to+transform+visions+into+pixels.)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="350" height="300">
 
